@@ -1,0 +1,7 @@
+2025-08-22 11:30:00,082 - WARNING - Bad Request: /api/v1/companies/search/
+2025-08-22 11:30:22,352 - WARNING - Bad Request: /api/v1/companies/search/
+2025-08-22 11:31:03,494 - WARNING - Bad Request: /api/v1/companies/search/
+2025-08-22 12:56:53,785 - INFO - C:\Python\DLLs\_zoneinfo.pyd changed, reloading.
+2025-08-22 17:35:12,503 - WARNING - Not Found: /
+2025-08-22 17:35:12,601 - WARNING - Not Found: /favicon.ico
+2025-08-22 17:49:17,877 - INFO - C:\Users\user\Desktop\work\bigging\bigging\settings.py changed, reloading.
