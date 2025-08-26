@@ -5,3 +5,386 @@
 2025-08-22 17:35:12,503 - WARNING - Not Found: /
 2025-08-22 17:35:12,601 - WARNING - Not Found: /favicon.ico
 2025-08-22 17:49:17,877 - INFO - C:\Users\user\Desktop\work\bigging\bigging\settings.py changed, reloading.
+2025-08-25 17:11:28,282 - WARNING - Not Found: /api/search/
+2025-08-25 17:11:49,075 - WARNING - Not Found: /api/search/
+2025-08-25 17:16:25,932 - INFO - C:\Users\user\Desktop\work\bigging\api\urls.py changed, reloading.
+2025-08-25 17:16:31,412 - INFO - C:\Users\user\Desktop\work\bigging\api\urls.py changed, reloading.
+2025-08-25 17:16:45,825 - INFO - C:\Users\user\Desktop\work\bigging\api\urls.py changed, reloading.
+2025-08-25 17:17:00,402 - INFO - C:\Users\user\Desktop\work\bigging\api\urls.py changed, reloading.
+2025-08-25 17:19:46,591 - WARNING - Not Found: /api/calculate/
+2025-08-25 17:51:13,184 - INFO - C:\Users\user\Desktop\work\bigging\api\views.py changed, reloading.
+2025-08-25 17:55:08,592 - INFO - C:\Users\user\Desktop\work\bigging\api\views.py changed, reloading.
+2025-08-25 17:55:24,066 - INFO - C:\Users\user\Desktop\work\bigging\api\views.py changed, reloading.
+2025-08-26 09:50:07,061 - INFO - C:\Users\user\Desktop\work\bigging\api\views.py changed, reloading.
+2025-08-26 09:50:31,205 - INFO - C:\Users\user\Desktop\work\bigging\api\views.py changed, reloading.
+2025-08-26 09:51:00,335 - INFO - C:\Users\user\Desktop\work\bigging\api\views.py changed, reloading.
+2025-08-26 09:51:11,822 - INFO - C:\Users\user\Desktop\work\bigging\api\views.py changed, reloading.
+2025-08-26 09:51:25,339 - INFO - C:\Users\user\Desktop\work\bigging\api\views.py changed, reloading.
+2025-08-26 09:55:18,938 - INFO - C:\Users\user\Desktop\work\bigging\api\views.py changed, reloading.
+2025-08-26 09:55:36,865 - INFO - C:\Users\user\Desktop\work\bigging\api\views.py changed, reloading.
+2025-08-26 09:56:18,410 - INFO - C:\Users\user\Desktop\work\bigging\api\views.py changed, reloading.
+2025-08-26 09:58:18,559 - INFO - C:\Users\user\Desktop\work\bigging\api\views.py changed, reloading.
+2025-08-26 10:03:59,267 - INFO - C:\Users\user\Desktop\work\bigging\api\views.py changed, reloading.
+2025-08-26 10:05:04,281 - INFO - C:\Users\user\Desktop\work\bigging\api\views.py changed, reloading.
+2025-08-26 10:10:27,355 - INFO - C:\Users\user\Desktop\work\bigging\api\views.py changed, reloading.
+2025-08-26 10:13:18,955 - INFO - C:\Users\user\Desktop\work\bigging\api\views.py changed, reloading.
+2025-08-26 10:26:46,445 - INFO - C:\Users\user\Desktop\work\bigging\api\search_logic.py changed, reloading.
+2025-08-26 10:27:01,251 - INFO - C:\Users\user\Desktop\work\bigging\api\views.py changed, reloading.
+2025-08-26 10:29:24,529 - INFO - C:\Users\user\Desktop\work\bigging\api\search_logic.py changed, reloading.
+2025-08-26 10:29:36,384 - INFO - C:\Users\user\Desktop\work\bigging\api\search_logic.py changed, reloading.
+2025-08-26 10:39:54,813 - INFO - C:\Users\user\Desktop\work\bigging\api\views.py changed, reloading.
+2025-08-26 10:40:01,238 - INFO - C:\Users\user\Desktop\work\bigging\api\views.py changed, reloading.
+2025-08-26 10:40:21,054 - INFO - C:\Users\user\Desktop\work\bigging\api\urls.py changed, reloading.
+2025-08-26 10:40:31,570 - INFO - C:\Users\user\Desktop\work\bigging\api\urls.py changed, reloading.
+2025-08-26 11:19:32,080 - INFO - C:\Users\user\Desktop\work\bigging\api\search_logic.py changed, reloading.
+2025-08-26 11:24:23,290 - INFO - C:\Users\user\Desktop\work\bigging\api\search_logic.py changed, reloading.
+2025-08-26 11:55:05,112 - INFO - C:\Users\user\Desktop\work\bigging\api\search_logic.py changed, reloading.
+2025-08-26 11:55:12,632 - INFO - C:\Users\user\Desktop\work\bigging\api\search_logic.py changed, reloading.
+2025-08-26 12:43:23,537 - INFO - C:\Users\user\Desktop\work\bigging\api\search_logic.py changed, reloading.
+2025-08-26 12:44:20,674 - INFO - C:\Users\user\Desktop\work\bigging\api\search_logic.py changed, reloading.
+2025-08-26 13:23:40,917 - INFO - C:\Users\user\Desktop\work\bigging\bigging\settings.py changed, reloading.
+2025-08-26 13:24:04,942 - INFO - C:\Users\user\Desktop\work\bigging\api\urls.py changed, reloading.
+2025-08-26 13:24:08,306 - INFO - C:\Users\user\Desktop\work\bigging\api\urls.py changed, reloading.
+2025-08-26 13:24:14,744 - INFO - C:\Users\user\Desktop\work\bigging\api\urls.py changed, reloading.
+2025-08-26 13:24:30,333 - INFO - C:\Users\user\Desktop\work\bigging\api\views.py changed, reloading.
+2025-08-26 13:24:40,751 - INFO - C:\Users\user\Desktop\work\bigging\api\views.py changed, reloading.
+2025-08-26 13:25:49,636 - INFO - C:\Users\user\Desktop\work\bigging\api\views.py changed, reloading.
+2025-08-26 13:26:04,221 - INFO - C:\Users\user\Desktop\work\bigging\api\views.py changed, reloading.
+2025-08-26 13:26:13,741 - INFO - C:\Users\user\Desktop\work\bigging\api\views.py changed, reloading.
+2025-08-26 13:26:31,523 - INFO - C:\Users\user\Desktop\work\bigging\api\urls.py changed, reloading.
+2025-08-26 13:26:40,792 - INFO - C:\Users\user\Desktop\work\bigging\api\urls.py changed, reloading.
+2025-08-26 13:31:59,561 - WARNING - Not Found: /api/search/
+2025-08-26 13:32:07,526 - WARNING - Not Found: /api/search/
+2025-08-26 13:32:11,118 - WARNING - Not Found: /api/search/
+2025-08-26 13:47:45,404 - INFO - C:\Users\user\Desktop\work\bigging\api\views.py changed, reloading.
+2025-08-26 13:48:03,120 - INFO - C:\Users\user\Desktop\work\bigging\api\urls.py changed, reloading.
+2025-08-26 13:48:10,314 - INFO - C:\Users\user\Desktop\work\bigging\api\urls.py changed, reloading.
+2025-08-26 13:54:33,798 - ERROR - Internal Server Error: /api/check_files/
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\user\Desktop\work\bigging\api\views.py", line 147, in get
+    return Response(status, status=status.HTTP_200_OK)
+                                   ^^^^^^^^^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'HTTP_200_OK'
+2025-08-26 13:54:33,819 - ERROR - Internal Server Error: /api/check_files/
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\user\Desktop\work\bigging\api\views.py", line 147, in get
+    return Response(status, status=status.HTTP_200_OK)
+                                   ^^^^^^^^^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'HTTP_200_OK'
+2025-08-26 13:54:48,887 - ERROR - Internal Server Error: /api/check_files/
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\user\Desktop\work\bigging\api\views.py", line 147, in get
+    return Response(status, status=status.HTTP_200_OK)
+                                   ^^^^^^^^^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'HTTP_200_OK'
+2025-08-26 13:54:48,971 - ERROR - Internal Server Error: /api/check_files/
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\user\Desktop\work\bigging\api\views.py", line 147, in get
+    return Response(status, status=status.HTTP_200_OK)
+                                   ^^^^^^^^^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'HTTP_200_OK'
+2025-08-26 13:54:50,993 - ERROR - Internal Server Error: /api/check_files/
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\user\Desktop\work\bigging\api\views.py", line 147, in get
+    return Response(status, status=status.HTTP_200_OK)
+                                   ^^^^^^^^^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'HTTP_200_OK'
+2025-08-26 13:54:51,063 - ERROR - Internal Server Error: /api/check_files/
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\user\Desktop\work\bigging\api\views.py", line 147, in get
+    return Response(status, status=status.HTTP_200_OK)
+                                   ^^^^^^^^^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'HTTP_200_OK'
+2025-08-26 13:56:24,333 - ERROR - Internal Server Error: /api/check_files/
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\user\Desktop\work\bigging\api\views.py", line 147, in get
+    return Response(status, status=status.HTTP_200_OK)
+                                   ^^^^^^^^^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'HTTP_200_OK'
+2025-08-26 13:56:24,389 - ERROR - Internal Server Error: /api/check_files/
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\user\Desktop\work\bigging\api\views.py", line 147, in get
+    return Response(status, status=status.HTTP_200_OK)
+                                   ^^^^^^^^^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'HTTP_200_OK'
+2025-08-26 13:56:49,537 - ERROR - Internal Server Error: /api/check_files/
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\user\Desktop\work\bigging\api\views.py", line 147, in get
+    return Response(status, status=status.HTTP_200_OK)
+                                   ^^^^^^^^^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'HTTP_200_OK'
+2025-08-26 13:56:49,565 - ERROR - Internal Server Error: /api/check_files/
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\user\Desktop\work\bigging\api\views.py", line 147, in get
+    return Response(status, status=status.HTTP_200_OK)
+                                   ^^^^^^^^^^^^^^^^^^
+AttributeError: 'dict' object has no attribute 'HTTP_200_OK'
+2025-08-26 13:58:16,002 - INFO - C:\Users\user\Desktop\work\bigging\api\views.py changed, reloading.
+2025-08-26 13:58:40,002 - INFO - C:\Users\user\Desktop\work\bigging\api\views.py changed, reloading.
+2025-08-26 13:58:48,575 - INFO - C:\Users\user\Desktop\work\bigging\api\views.py changed, reloading.
+2025-08-26 14:56:51,497 - WARNING - Not Found: /api/search/
+2025-08-26 15:07:14,979 - INFO - C:\Users\user\Desktop\work\bigging\api\views.py changed, reloading.
+2025-08-26 15:14:11,428 - ERROR - Internal Server Error: /api/upload/
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\user\Desktop\work\bigging\api\views.py", line 130, in post
+    fs.delete(file_name)
+    ~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\files\storage\filesystem.py", line 189, in delete
+    os.remove(name)
+    ~~~~~~~~~^^^^^^
+PermissionError: [WinError 32] 다른 프로세스가 파일을 사용 중이기 때문에 프로세스가 액세스 할 수 없습니다: 'C:\\Users\\user\\Desktop\\work\\bigging\\media\\excel\\eung.xlsx'
+2025-08-26 15:16:44,558 - INFO - C:\Users\user\Desktop\work\bigging\api\views.py changed, reloading.
+2025-08-26 15:17:04,954 - ERROR - Internal Server Error: /api/upload/
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\user\Desktop\work\bigging\api\views.py", line 132, in post
+    fs.delete(file_name)
+    ~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\files\storage\filesystem.py", line 189, in delete
+    os.remove(name)
+    ~~~~~~~~~^^^^^^
+PermissionError: [WinError 32] 다른 프로세스가 파일을 사용 중이기 때문에 프로세스가 액세스 할 수 없습니다: 'C:\\Users\\user\\Desktop\\work\\bigging\\media\\excel\\eung.xlsx'
+2025-08-26 15:19:01,965 - INFO - C:\Users\user\Desktop\work\bigging\api\search_logic.py changed, reloading.
+2025-08-26 15:19:10,518 - ERROR - Internal Server Error: /api/upload/
+Traceback (most recent call last):
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 515, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 475, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 486, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\rest_framework\views.py", line 512, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\user\Desktop\work\bigging\api\views.py", line 132, in post
+    fs.delete(file_name)
+    ~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\user\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\files\storage\filesystem.py", line 189, in delete
+    os.remove(name)
+    ~~~~~~~~~^^^^^^
+PermissionError: [WinError 32] 다른 프로세스가 파일을 사용 중이기 때문에 프로세스가 액세스 할 수 없습니다: 'C:\\Users\\user\\Desktop\\work\\bigging\\media\\excel\\eung.xlsx'
+2025-08-26 15:20:51,098 - INFO - C:\Users\user\Desktop\work\bigging\api\views.py changed, reloading.

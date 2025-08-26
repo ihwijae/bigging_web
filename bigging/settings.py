@@ -146,3 +146,7 @@ EXCEL_DATA_DIR = os.path.join(BASE_DIR, 'excel_data')
 # 만약 excel_data 폴더가 없다면 생성
 if not os.path.exists(EXCEL_DATA_DIR):
     os.makedirs(EXCEL_DATA_DIR)
+
+
+MEDIA_URL = '/media/'
+MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
