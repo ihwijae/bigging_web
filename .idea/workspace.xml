@@ -6,13 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c2c7caf9-978b-4448-976b-d78e35b86890" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/search_logic.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/search_logic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigging/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/bigging/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/excel_data/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/excel_data/전기.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/search_errors.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/search_errors.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/excel/eung.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/media/excel/eung.xlsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
